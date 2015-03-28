@@ -8,7 +8,7 @@ var app = new Parse(options);
 
 // Send data to cloud
 function dataHandler(data, beanId) {
-    app.insert(beanId, {data: data}, 
+    app.insert(beanId, {data: data.substring(1, data.length - 1)}, 
     	function (err, response) {
         	console.log(response);
     	} 

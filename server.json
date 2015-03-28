@@ -1,0 +1,1 @@
+[{"id":"4f7a7d17.b08584","type":"bean","name":"Bean_2","uuid":"","connectiontype":"constant","connectiontimeout":"60"},{"id":"b04ebf12.4fb14","type":"bean serial","name":"Bean_2","bean":"4f7a7d17.b08584","newline":"\\n","bin":"false","out":"char","addchar":false,"x":121,"y":256,"z":"3b592b32.c4a6d4","wires":[["81db1095.7e24f"]]}]

@@ -1,8 +1,8 @@
 // Parse api related
 var Parse = require('node-parse-api').Parse;
 var options = {
-    app_id:'QXwMwYGiI1AbfILaGWdNMIETRSOc53nx1K2qL4kn',
-    api_key:'9ra4gsW5qVdp7g2UeRjGfz0dsUvXIZ1Yxxet1PSN' // master_key:'...' could be used too
+    app_id:'5dYyy3c3vgllE0btqL9N0rsbvzC0nj1t55c8wW8b',
+    api_key:'JbvUWXoM5DeUskxy7CovPcOc6sHtDYMw4wBadtY5' // master_key:'...' could be used too
 }
 var app = new Parse(options);
 
